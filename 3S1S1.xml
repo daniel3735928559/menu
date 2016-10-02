@@ -2,7 +2,5 @@
 
 <?xml-stylesheet href="style.xsl" type="text/xsl"?>
 <page uri="3S1S1.xml">
-	<div class="content">
-		Stuff
-	</div>
+	<div class="content">Stuff</div>
 </page>
