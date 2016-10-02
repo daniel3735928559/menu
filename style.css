@@ -1,0 +1,42 @@
+div.all{
+	margin: 20px auto;
+	width: 80%;
+}
+div.menu_item{
+	margin: 0;
+	height: 1.25em;
+	padding: 0.3em 0;
+}
+div.menu_item a.current{
+	color: #005555;
+	text-decoration: none;
+	font: bold 1.0em "Serif";
+}
+div.menu_item a.other{
+	color: #0055cc;
+	text-decoration: none;
+	font: 1.0em "Serif";
+}
+div.menu_item a:hover{
+	color: #c5c;
+}
+
+div.menu_item{
+	
+}
+div.menu{
+	float:left;
+	padding:20px;
+	margin: 0 10px;
+	border: 1px #000 solid;
+	background-color: #fff;
+	min-width:180px;
+}
+div.content{
+	padding:5px 20px;
+	border-left: 1px #000 solid;
+	background-color: #def;
+	margin-left:231px;
+	max-width:30em;
+}
+	
