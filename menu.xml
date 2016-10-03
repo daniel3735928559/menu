@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
 <menu>
-  <menuitem text="Item 1" url="1.xml" />
-  <menuitem text="Item 2" url="2.xml">
-    <menuitem text="Sub 1" url="2S1.xml" />
-    <menuitem text="Sub 2" url="2S2.xml" />
-    <menuitem text="Sub 3" url="2S3.xml" />
-  </menuitem>
-  <menuitem text="Item 3" url="3.xml">
-    <menuitem text="Sub 1" url="3S1.xml">
-      <menuitem text="SubSub 1" url="3S1S1.xml" />
-      <menuitem text="SubSub 1" url="3S1S2.xml" />
+  <menuitem text="Item 1" url="1.xml">
+    <menuitem text="Sub 1" url="1S1.xml">
+      <menuitem text="SubSub 1" url="1S1S1.xml" />
+      <menuitem text="SubSub 2" url="1S1S2.xml" />
     </menuitem>
-    <menuitem text="Sub 2" url="3S2.xml" />
+    <menuitem text="Sub 2" url="1S2.xml" />
   </menuitem>
+  <menuitem text="Item 2" url="2.xml">
 </menu>
